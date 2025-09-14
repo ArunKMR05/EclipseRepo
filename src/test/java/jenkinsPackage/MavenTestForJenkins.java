@@ -8,7 +8,7 @@ public class MavenTestForJenkins {
 	public void testM() {
 		System.out.println("+++This is Maven Project for Running from the Jenkins+++");
 		//New Line Added
-		
+		//2nd New Line
 	}
 
 }
